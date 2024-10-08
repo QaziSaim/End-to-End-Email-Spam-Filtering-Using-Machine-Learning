@@ -1,7 +1,3 @@
-Here's a custom `README.md` for your email spam filtering project, ensuring it's unique and plagiarism-free:
-
----
-
 # Email Spam Filtering Project
 
 ## Overview
@@ -88,7 +84,3 @@ This project demonstrates how to effectively build and evaluate an email spam fi
 ## Future Work
 - Enhance feature engineering by including more metadata such as the subject line or email header information.
 - Explore deep learning techniques like **RNN** or **Transformer-based models** to further improve classification accuracy.
-
----
-
-Feel free to modify this template to include more specific details about your implementation!
